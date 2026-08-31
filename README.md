@@ -50,6 +50,6 @@ DealShield utilizes an Open-Core model to protect critical M&A infrastructure.
 
 Designed for top-tier Venture Capital and Private Equity funds requiring absolute air-gapped security for deal flows.
 
-**[👉 Purchase Fund Site License via Polar.sh ($990 - $2,500/year)](#)**
+**[👉 Purchase Fund Site License via Polar.sh ](https://buy.polar.sh/polar_cl_zofCOygFzBGX0oCr3WqzWyGnTuzytyXrAV4322DajWE)**
 
 *Copyright © 2026 Emirhan CAMCI. All Rights Reserved.*
